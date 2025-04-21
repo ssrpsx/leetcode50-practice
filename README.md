@@ -18,4 +18,4 @@ The **LeetCode Top Interview 150** is a curated list of coding problems designed
 - **Bit Manipulation**
 - **Sorting & Searching**
 
-Link : <a href="https://leetcode.com/u/Azard7985/" target="_blank">Profile on LeetCode</a>
+Link : <a href="https://leetcode.com/u/Azard7985/" target="_new">Profile on LeetCode</a>
