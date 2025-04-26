@@ -1,4 +1,4 @@
-# 👾LeetCode 150 Practice
+# 👾LeetCode 150 Practice.
 
 This repository contains my personal practice of solving **LeetCode 150 problems** to improve my problem-solving skills in Data Structures and Algorithms (DSA).  
 The goal is to practice solving coding challenges in various categories, such as arrays, strings, trees, dynamic programming, and more.
@@ -17,5 +17,3 @@ The **LeetCode Top Interview 150** is a curated list of coding problems designed
 - **Mathematics**
 - **Bit Manipulation**
 - **Sorting & Searching**
-
-Link : <a href="https://leetcode.com/u/Azard7985/" target="_new">Profile on LeetCode</a>
