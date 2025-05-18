@@ -1,4 +1,3 @@
 .vscode/
 *.exe
 *.cpp
-main_header.h
